@@ -61,6 +61,7 @@ div {
 	width: 446px;
 	padding-left: 12px;
 	border: 1px solid gray;
+	clear: both;
 }
 
 .search-container .search-submit {
