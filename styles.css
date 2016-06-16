@@ -49,6 +49,7 @@ div {
 .search-container {
 	margin: 30px auto;
 	width: 620px;
+	clear: both;
 }
 
 .search-container input {
@@ -61,7 +62,6 @@ div {
 	width: 446px;
 	padding-left: 12px;
 	border: 1px solid gray;
-	clear: both;
 }
 
 .search-container .search-submit {
