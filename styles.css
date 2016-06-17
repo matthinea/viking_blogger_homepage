@@ -77,6 +77,10 @@ div {
 	width: 620px;
 }
 
+.post {
+	padding: 40px 80px;
+}
+
 a {
 	color: #085394;
 	text-decoration: none;
@@ -111,5 +115,4 @@ a {
 
 .post .write-comment {
 	float: right;
-}
 }
